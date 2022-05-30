@@ -30,8 +30,8 @@ const projects = [
         "url": "https://"
     },
     {
-        "name": "MY Wrapper - NPM Package",
-        "description": "An NPM Package To Make Your Life Easier While Using The Cat API!",
-        "url": "https://"
+        "name": "Neon⚡️",
+        "description": "A discord bot to help you check your Valorant's skin store rotation",
+        "url": "https://discord.com/oauth2/authorize?client_id=948468021935099934&permissions=8&scope=bot%20applications.commands"
     }
 ]
