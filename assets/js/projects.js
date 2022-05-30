@@ -1,6 +1,6 @@
 const projects = [
     {
-        "name": "Pop Chat",
+        "name": "MY Chat",
         "description": "An online chatting website with a beautiful UI and the ability to create your own chat rooms! Made originally for a hackathon",
         "url": "https://"
     },
@@ -15,7 +15,7 @@ const projects = [
         "url": "https://"
     },
     {
-        "name": "Pop Cat API",
+        "name": "MY Cat API",
         "description": "The Only API You'll Ever Need! Has Tons of Image Manipulation and Utility Endpoints!",
         "url": "https://"
     },
@@ -30,8 +30,8 @@ const projects = [
         "url": "https://"
     },
     {
-        "name": "Pop Cat Wrapper - NPM Package",
-        "description": "An NPM Package To Make Your Life Easier While Using The Pop Cat API!",
+        "name": "MY Wrapper - NPM Package",
+        "description": "An NPM Package To Make Your Life Easier While Using The Cat API!",
         "url": "https://"
     }
 ]
